@@ -234,3 +234,6 @@ This repository serves as the official landing page for Gobliiins 4. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Gobliiins 4 today!**
+
+---
+**Last updated:** 2026-09-10 11:53:28 UTC
